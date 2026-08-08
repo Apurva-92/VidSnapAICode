@@ -1,4 +1,0 @@
-file 'JDB-157_page-0001.jpg'
-duration 1
-file 'ApurvaVhatkar.jpeg'
-duration 1
